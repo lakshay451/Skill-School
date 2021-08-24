@@ -1,0 +1,77 @@
+#title{
+	background-color:#368B85;
+}
+body {
+  color: white;
+  text-align: center;
+}
+h1{
+	font-family: 'Merriweather', serif;
+
+}
+.row{
+	padding: 3% 7%;
+}
+.btn{
+	margin: 10px 20px;
+}
+p{
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 1.5rem;
+	padding-top: 3%;
+
+}
+.navbar-brand{
+	font-family: ubuntu;
+	font-size: 2.5rem;
+	font-weight: bold;
+	padding-left: 0;
+}
+.navbar{
+	font-family: ubuntu;
+	font-size: 1.5rem;
+	text-color: white;
+	padding: 0 0 4.5rem;
+}
+#features{
+	color: black;
+}
+#pricing{
+	color: black;
+
+}
+#testimonials{
+	background-color:#368B85;
+	padding-bottom: 5%;
+	padding-top: 5%;
+
+}
+#footer{
+	background-color:#11324D;
+	padding-bottom: 5%;
+}
+#cta{
+	color: black;
+}
+.carousel-inner{
+	width: 60%;
+	margin: auto;
+}
+@media(max-width: 964px){
+	#pricing{
+		text-align: center;
+	}
+	.card{
+		margin: auto;
+	}
+
+}
+.col-lg-4{
+	padding-bottom: 5%;
+}
+.navbar{
+	padding-top: 3%;
+}
+#footer{
+	margin-top: 10%; 
+}
